@@ -215,6 +215,8 @@ p.note { display: none; }
 <a href="20251108_024.JPG" target="_blank"><img src="20251108_024.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251108_025.JPG" target="_blank"><img src="20251108_025.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251108_026.JPG" target="_blank"><img src="20251108_026.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">ギターの屋台、店主さんとは何故か顔馴染みに・・・</span></h2>
 <a href="20251108_027.JPG" target="_blank"><img src="20251108_027.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251108_028.JPG" target="_blank"><img src="20251108_028.JPG" alt="サンプル画像" class="responsive-media"></a>
     
